@@ -7,3 +7,5 @@ Nao funcionou, tenta de novo
 Vai que alguma hora vai
 
 FOi?
+Deu certo?
+Acho que não!
